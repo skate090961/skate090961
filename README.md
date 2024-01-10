@@ -1,5 +1,7 @@
 # Hello there 👋 I'm Maksim
 
+- [My CV](https://drive.google.com/file/d/1IFVkfZHSpwcdMo1VK3EuozNTIlwAGGiO/view?usp=sharing)
+
 # 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/zzzywo) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:polyakov.maksim.work@gmail.com)
