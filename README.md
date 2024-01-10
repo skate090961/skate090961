@@ -14,7 +14,18 @@
 A social network that implements subscription to users, change of status, photo of the user and his personal data, change of theme. Locally it is possible to create wall posts and send messages in dialogues. In the future, sending messages to specific users and general chat will be implemented.
 In the application, you can log in using a test account or follow the link to register your own. All login information is provided on the login page.
 ### Tech Stack:
-React, TypeScript, Redux, Redux-Thunk, Axios, CSS modules, Jest, React-hook-form, Material UI
+React, TypeScript, Redux, Redux-Thunk, Axios, CSS modules, Jest, React-hook-form, React-router-dom, Material UI
+
+## React Todolist
+### Links:
+> [GitHub](https://github.com/skate090961/react-todolist) - on github
+> 
+> [Todolist](https://skate090961.github.io/react-todolist/) - web application
+### Description: 
+In this application, you can create various lists that have nested tasks. Each task can be described in detail by adding deadlines, description, priority and status.
+In the application, you can log in using a test account or follow the link to register your own. All login information is provided on the login page.
+### Tech Stack:
+React, TypeScript, Redux Toolkit, Redux-Thunk, Axios, CSS modules, Jest, React-hook-form,  React-router-dom, Material UI, Storybook
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
